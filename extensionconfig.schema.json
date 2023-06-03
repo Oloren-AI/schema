@@ -64,6 +64,10 @@
             "default": 1,
             "description": "Initial number of outputs."
           },
+          "initial_data": {
+            "default": {},
+            "description": "Initial number of outputs."
+          },
           "metadata": {
             "description": "Node metadata (can insert anything here)."
           }
