@@ -41,7 +41,7 @@
                 "type": "boolean",
                 "default": false,
                 "description": "If hidden, the applet will run on the client side without generating UI."
-              }
+              },
               "continue": {
                 "type": "boolean",
                 "default": true,
