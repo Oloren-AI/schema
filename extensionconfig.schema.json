@@ -42,6 +42,11 @@
                 "default": false,
                 "description": "If hidden, the applet will run on the client side without generating UI."
               }
+              "continue": {
+                "type": "boolean",
+                "default": true,
+                "description": "If set to false, the continue button on the applet will be hidden. The applet will have to manually call done() to continue."
+              }
             },
             "required": [
               "path"
